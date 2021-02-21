@@ -6,7 +6,6 @@
   "menu", true | sort: "order" %} {% assign count = 0%} {% for node in pages %}
   {% assign count = count | plus: 1 %}
   <li>
-    <input type="img" src="../assets/icons/favicon.ico" />
     <div class="list-wrapper">
       <a
         class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"

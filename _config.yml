@@ -6,7 +6,7 @@ title: 들샘의 블로그
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url: https://040206rabbit.github.io
+url: ​ bundle exec jekyll serve
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository

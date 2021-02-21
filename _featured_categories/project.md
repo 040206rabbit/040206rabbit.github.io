@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 3
 description: >
-  인공지능 프로젝트
+  react로 web 공부하는 사이트 만들기!
 ---
